@@ -10,7 +10,7 @@ stalla1@student.gsu.edu
 
 ---
 
-[Research Paper]()
+[Research Paper](https://github.com/Shreejaa/Sound_Classification_Custom_Layers/blob/master/DM_SoundClassificationAndDetectionUsingImprovedCNN.pdf)
 
 ## INDEX
 1. [Instructions](#instructions)
